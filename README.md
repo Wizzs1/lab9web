@@ -9,4 +9,4 @@
 
 ### output
 
-<img width="960" alt="image" src="https://github.com/Wizzs1/lab9web/assets/110619093/3f07bec0-a602-4e41-a131-231a84e1c86e">
+<img width="735" alt="image" src="https://github.com/Wizzs1/lab9web/assets/110619093/2d5b1916-bb8f-4e14-8376-7e0427c769d3">
